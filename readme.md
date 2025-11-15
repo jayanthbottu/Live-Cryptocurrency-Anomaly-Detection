@@ -1,4 +1,5 @@
-# 🚀 Elite Market Intelligence Dashboard
+# Live Cryptocurrency Price Dashboard with Anomaly Detection
+
 
 > **Advanced Real-Time Market Monitoring System with ML-Powered Anomaly Detection**
 
@@ -9,8 +10,8 @@ A cutting-edge trading dashboard that combines cryptocurrency market data with I
 ## ✨ Key Features
 
 ### 🎯 **Core Capabilities**
-- 📊 **Real-Time Data Streaming** - Live cryptocurrency prices from Binance
-- 🇮🇳 **Indian Market Integration** - NIFTY 50, SENSEX, NIFTY BANK monitoring
+- **Real-Time Data Streaming** - Live cryptocurrency prices from Binance
+- **Indian Market Integration** - NIFTY 50, SENSEX, NIFTY BANK monitoring
 - 🤖 **AI-Powered Anomaly Detection** - Machine learning algorithms detect market anomalies
 - 📈 **Advanced Technical Analysis** - 15+ technical indicators (RSI, MACD, Bollinger Bands, etc.)
 - 🎨 **Professional UI** - Dark theme with gradient designs and smooth animations
@@ -44,8 +45,8 @@ A cutting-edge trading dashboard that combines cryptocurrency market data with I
 
 ### **Step 1: Clone the Repository**
 ```bash
-git clone https://github.com/yourusername/market-intelligence-dashboard.git
-cd market-intelligence-dashboard
+git clone https://github.com/jayanthbottu/Live-Cryptocurrency-Anomaly-Detection.git
+cd Live-Cryptocurrency-Anomaly-Detection
 ```
 
 ### **Step 2: Create Virtual Environment**
