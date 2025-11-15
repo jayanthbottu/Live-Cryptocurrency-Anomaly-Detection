@@ -37,7 +37,7 @@ A cutting-edge trading dashboard that combines cryptocurrency market data with I
 ---
 
 ## 🛠️ Installation Guide
-
+https://www.python.org/ftp/python/3.11.9/python-3.11.9-amd64.exe
 ### **Prerequisites**
 - Python 3.8 or higher
 - pip (Python package manager)
