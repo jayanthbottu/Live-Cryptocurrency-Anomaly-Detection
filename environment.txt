@@ -1,0 +1,7 @@
+python -m venv daup
+
+daup\Scripts\activate
+
+# daup\Scripts\activate
+
+streamlit run app.py
