@@ -1066,7 +1066,7 @@ while True:
                     st.markdown(f"""
                     <div class="premium-metric">
                         <div class="metric-label">Current Price</div>
-                        <div class="metric-value">${latest_price:,.4f}</div>
+                        <div class="metric-value">${latest_price:,.2f}</div>
                         <div class="metric-change {change_class}">{price_change:+.2f}%</div>
                     </div>
                     """, unsafe_allow_html=True)
@@ -1075,7 +1075,7 @@ while True:
                     st.markdown(f"""
                     <div class="premium-metric">
                         <div class="metric-label">24h High</div>
-                        <div class="metric-value" style="font-size: 1.5rem;">${high_24h:,.4f}</div>
+                        <div class="metric-value" style="font-size: 1.5rem;">${high_24h:,.2f}</div>
                         <div class="metric-change" style="color: #00ff88;">↑ Peak</div>
                     </div>
                     """, unsafe_allow_html=True)
@@ -1084,7 +1084,7 @@ while True:
                     st.markdown(f"""
                     <div class="premium-metric">
                         <div class="metric-label">24h Low</div>
-                        <div class="metric-value" style="font-size: 1.5rem;">${low_24h:,.4f}</div>
+                        <div class="metric-value" style="font-size: 1.5rem;">${low_24h:,.2f}</div>
                         <div class="metric-change" style="color: #ff4444;">↓ Bottom</div>
                     </div>
                     """, unsafe_allow_html=True)
