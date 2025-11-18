@@ -386,8 +386,10 @@ st.markdown("""
 # Sidebar Configuration with Premium Design
 st.sidebar.markdown("""
 <div style='text-align: center; padding: 1rem 0 2rem 0;'>
-    <h2 style='color: white; margin: 0;'>⚙️ Control Center</h2>
-    <p style='color: rgba(255,255,255,0.6); font-size: 0.9rem; margin: 0.5rem 0 0 0;'>Configure your analytics dashboard</p>
+    <h2 style='color: white; margin: 0;'>👥 Developed By</h2>
+    <p style='color: rgba(255,255,255,0.6); font-size: 0.9rem; margin: 0.5rem 0 0 0;'>2303A51LA0    SINDHU</p>
+    <p style='color: rgba(255,255,255,0.6); font-size: 0.9rem; margin: 0.5rem 0 0 0;'>2303A51LA7    JAYANTH</p>
+
 </div>
 """, unsafe_allow_html=True)
 
